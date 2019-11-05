@@ -1,0 +1,12 @@
+Compilar e Executar:
+    Abra o terminal
+    Vá até a pasta que contém o arquivo myRC4.c
+    Digite no terminal: gcc myRC4.c -o myRC4
+    e posteriormente digite: ./myRC4
+
+Executar
+    Abra o terminal
+    Vá até a pasta que contém o arquivo myRC4.c
+    Digite no terminal: ./myRC4
+
+Resultados encontrans-se no arquivo Results.txt
