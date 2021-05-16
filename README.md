@@ -1,2 +1,2 @@
-# Seguranca-de-Redes
-8º Semestre do curso de Engenharia da Computação - UFSM
+# Network-Security
+Network Security materials from 8th Semester of the Computer Engineering course - UFSM
